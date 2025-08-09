@@ -31,4 +31,6 @@ pip install opencv-python numpy
 - Run the script: python snapvision_filters.py
 - Use keyboard keys to toggle filters.
 - The filtered video will be saved as filters_output_person.mp4.
+# Demo Video
+[Watch the output video here](https://drive.google.com/drive/folders/1gxJyuV6mW1PSDkQ7xDXzcVCW-YK1QjYq?usp=drive_link)
   
